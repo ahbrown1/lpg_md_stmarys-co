@@ -3,3 +3,6 @@ typescript
 ??
 *.swo
 *.swp
+*.zip
+*.tgz
+*.tar
